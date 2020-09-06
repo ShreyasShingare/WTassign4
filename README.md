@@ -1,2 +1,2 @@
-# WTassign4
-WebTechology Assignment 4 
+# WTAS4
+Data fetched from JSON file using PHP
